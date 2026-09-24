@@ -1,4 +1,8 @@
 ---
+genres:
+  - sports
+  - strategy
+  - management
 video: https://youtu.be/8yzSGNtxco4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
